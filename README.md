@@ -245,5 +245,5 @@ Se este projeto foi útil para você, considere dar uma ⭐️ no repositório!
 ---
 
 <div align="center">
-  <sub> ***Nossas maiores realizações não podem ficar para trás porque nosso destino está acima de nós.*** </sub>
+  <sub><i> Nossas maiores realizações não podem ficar para trás porque nosso destino está acima de nós. <i> </sub>
 </div>
