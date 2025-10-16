@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aventura Galáctica: Códigos dos Planetas 🚀</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <!-- Vídeo de fundo -->
+    <video class="background-video" autoplay muted loop playsinline>
+      <source src="assets/background.mp4" type="video/mp4" />
+    </video>
+
+    <!-- Áudio de fundo -->
+    <audio id="background-audio" loop>
+      <source src="assets/theme.mp3" type="audio/mpeg" />
+    </audio>
+
+    <!-- Controles de Áudio -->
+    <div class="audio-controls">
+      <button id="play-audio" class="audio-btn" title="Tocar música">🎵</button>
+      <button id="pause-audio" class="audio-btn" title="Pausar música">⏸️</button>
+    </div>
+
+    <!-- Container principal -->
+    <div class="container">
+      <h1 class="title">
+        <span class="title-icon">🚀</span>
+        Aventura Galáctica
+        <span class="title-icon">🌌</span>
+      </h1>
+      <p class="subtitle">Decifrando Códigos dos Planetas</p>
+
+      <!-- Campo de entrada -->
+      <div class="input-section">
+        <label for="planet-name" class="input-label">Nome do Planeta:</label>
+        <input type="text" id="planet-name" class="input-field" placeholder="Ex: Terra" autocomplete="off" />
+      </div>
+
+      <!-- Área dos botões -->
+      <div class="button-section">
+        <button class="btn hologram" id="decode-btn">
+          <span data-text="DECIFRAR">DECIFRAR</span>
+          <div class="scan-line"></div>
+        </button>
+        <button class="btn hologram" id="return-btn">
+          <span data-text="RETORNAR">RETORNAR</span>
+          <div class="scan-line"></div>
+        </button>
+      </div>
+
+      <!-- Seção de resultado -->
+      <div class="result-section" id="result-section">
+        <h2 class="result-title">📡 Resultado da Decodificação</h2>
+        <div class="result-content" id="result-content">
+          <!-- O resultado será inserido aqui via JavaScript -->
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
