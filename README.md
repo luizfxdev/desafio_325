@@ -170,8 +170,8 @@ cd desafio_325
 
 | Planeta | Código Esperado |
 |---------|----------------|
-| Terra   | 64            |
-| Marte   | 62            |
+| Terra   | 62            |
+| Marte   | 57            |
 | Venus   | 81            |
 | Zogrox  | 105           |
 
@@ -234,7 +234,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Luiz Felipe** | [GitHub](https://github.com/luizfxdev) | [LinkedIn](#)
+**Luiz Felipe** | [GitHub](https://github.com/luizfxdev) | [LinkedIn](https://www.linkedin.com/in/luizfxdev)
 
 ---
 
