@@ -245,5 +245,5 @@ Se este projeto foi útil para você, considere dar uma ⭐️ no repositório!
 ---
 
 <div align="center">
-  <sub>Desenvolvido com 💙 por Luiz Felipe</sub>
+  <sub> ***Nossas maiores realizações não podem ficar para trás porque nosso destino está acima de nós.*** </sub>
 </div>
